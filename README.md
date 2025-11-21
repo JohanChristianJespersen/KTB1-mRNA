@@ -2,6 +2,6 @@
 
 # Files
 
-# Instructions
+# Installation and Usage
 
 # Additional Information
