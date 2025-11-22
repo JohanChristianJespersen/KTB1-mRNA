@@ -11,9 +11,15 @@ Closed-loop disturbance simulation folder | contains the simulation model where 
 ## Files
 
 1. Simulink
-_Final_OpenLoop_
-_Final_Closeloop_
 
+- _Final_OpenLoop_
+  
+- _Final_Closeloop_
+
+- _Final_Closeloop_actuator_
+
+- _Final_Closeloop_five_
+- _Final_sinus_
 
 
 
