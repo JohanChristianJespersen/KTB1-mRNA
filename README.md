@@ -19,7 +19,7 @@ The project contains three folders, each described in detail below, including th
     
     - _Final_Closeloop_ - Closed-loop simulation: This Simulink file contains the simulation model for the continuous biopharmaceutical process with closed-loop control.
       
-    - _Final_Closeloop_actuator_ - Actuator & Sensor model: This Simulink file contains the simulation model sensor model and actuator handel to simulate more close to evaluate the control handle.
+    - _Final_Closeloop_actuator_ - Actuator & Sensor model: This Simulink file contains actuator and sensor models to increase the realism of the model.
       
     - _Final_Closeloop_five_ - Multiple disturbances: Simulink file introducing Gaussian-distributed variances, step function, ramp signal, a pulse generator that produces a sample-based pulse to the model.
       
@@ -33,13 +33,21 @@ The project contains three folders, each described in detail below, including th
     - _T_402_ - Buffer tank: Script for simulating Tank T-402 in the process.
     - _T_501_ - Buffer tank: Script for simulating Tank T-501 in the process.
     - _M_501_ - Dynamic mixer: Script for simulating the mixer in the process.
+    - 
     - _AC_Chromatography_ - Affinity Chromatography: Script for simulating intermediate purification in the process.
-    - _AEX_Chromatography_ - 
-    - _AEX_Chromatography2_ -
-    - _HIC_Chromatography_ - Hydrophobic Interaction Chromatography: Script for simulating polishing based on a two-component system in the process.
+    
+    - _AEX_Chromatography_ - Anion Exchange Chromatography: Script for simulating initial purification Column AEX-201:204 in the process.
+    
+    - _AEX_Chromatography2_ - Anion Exchange Chromatography: Script for simulation polishing Column AEX-301:304 in the process.
+    
+    - _HIC_Chromatography_ - Hydrophobic Interaction Chromatography: Script for simulating polishing Column XX based on a two-component system in the process.
+    
     - _Alkalinelysis_ -
+    
     - _Degradation_reactor_
+    
     - _IVT_ -
+    
     - _Linearization_ - 
 
 # Installation and Usage
@@ -50,3 +58,6 @@ The project contains three folders, each described in detail below, including th
 # Additional Information
 
 For any questions or issues please contact jespersen.johan@gmail.com
+
+
+Created by Johan Christian Jespersen & Thomas Støvring Sørensen
