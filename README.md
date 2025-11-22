@@ -34,17 +34,17 @@ The project contains three folders, each described in detail below, including th
     - _T_501_ - Buffer tank: Script for simulating Tank T-501 in the process.
     - _M_501_ - Dynamic mixer: Script for simulating the mixer in the process.
     - 
-    - _AC_Chromatography_ - Affinity Chromatography: Script for simulating intermediate purification in the process.
+    - _AC_Chromatography_ - Affinity Chromatography: Script for simulating intermediate purification (AC-401:404) in the process.
     
-    - _AEX_Chromatography_ - Anion Exchange Chromatography: Script for simulating initial purification Column AEX-201:204 in the process.
+    - _AEX_Chromatography_ - Anion Exchange Chromatography: Script for simulating initial purification (AEX-201:204) in the process.
     
-    - _AEX_Chromatography2_ - Anion Exchange Chromatography: Script for simulation polishing Column AEX-301:304 in the process.
+    - _AEX_Chromatography2_ - Anion Exchange Chromatography: Script for simulation polishing (AEX-301:304) in the process.
     
-    - _HIC_Chromatography_ - Hydrophobic Interaction Chromatography: Script for simulating polishing Column XX based on a two-component system in the process.
+    - _HIC_Chromatography_ - Hydrophobic Interaction Chromatography: Script for simulating polishing (HIC-401:404) based on a two-component system in the process.
     
-    - _Alkalinelysis_ -
+    - _Alkalinelysis_ - Alkaline cell lysis: Script for simulation of the alkaline lysis process in a plug flow reactor.
     
-    - _Degradation_reactor_
+    - _Degradation_reactor_ - DNase I degradation: Script for simulation of DNase I degradation of DNA in Reactor R-402.
     
     - _IVT_ -
     
