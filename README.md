@@ -22,17 +22,17 @@ Closed-loop disturbance simulation | contains the simulation model where disturb
     - _Final_sinus_ -
 
 2. **Scripts**
-    - _CSTR_
+    - _CSTR_ - Fermentation Reactor: Script for simulating the continuous reactor.
     - _T_101_ - Buffer tank: Script for simulating Tank T-101 in the process.
     - _T_205_ - Buffer tank: Script for simulating Tank T-205 in the process.
     - _T_302_ - Buffer tank: Script for simulating Tank T-302 in the process.
     - _T_402_ - Buffer tank: Script for simulating Tank T-402 in the process.
     - _T_501_ - Buffer tank: Script for simulating Tank T-501 in the process.
     - _M_501_ - Dynamic mixer: Script for simulating the mixer in the process.
-    - _AC_Chromatography_ -
-    - _AEX_Chromatography_ -
+    - _AC_Chromatography_ - Affinity Chromatography: Script for simulating intermediate purification in the process.
+    - _AEX_Chromatography_ - 
     - _AEX_Chromatography2_ -
-    - _HIC_Chromatography_ -
+    - _HIC_Chromatography_ - Hydrophobic Interaction Chromatography: Script for simulating polishing based on a two-component system in the process.
     - _Alkalinelysis_ -
     - _Degradation_reactor_
     - _IVT_ -
