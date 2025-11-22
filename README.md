@@ -33,22 +33,15 @@ The project contains three folders, each described in detail below, including th
     - _T_402_ - Buffer tank: Script for simulating Tank T-402 in the process.
     - _T_501_ - Buffer tank: Script for simulating Tank T-501 in the process.
     - _M_501_ - Dynamic mixer: Script for simulating the mixer in the process.
-    - 
     - _AC_Chromatography_ - Affinity Chromatography: Script for simulating intermediate purification (AC-401:404) in the process.
-    
     - _AEX_Chromatography_ - Anion Exchange Chromatography: Script for simulating initial purification (AEX-201:204) in the process.
-    
     - _AEX_Chromatography2_ - Anion Exchange Chromatography: Script for simulation polishing (AEX-301:304) in the process.
-    
     - _HIC_Chromatography_ - Hydrophobic Interaction Chromatography: Script for simulating polishing (HIC-401:404) based on a two-component system in the process.
-    
     - _Alkalinelysis_ - Alkaline cell lysis: Script for simulation of the alkaline lysis process in a plug flow reactor.
-    
-    - _Degradation_reactor_ - DNase I degradation: Script for simulation of DNase I degradation of DNA in Reactor R-402.
-    
-    - _IVT_ -
-    
-    - _Linearization_ - 
+    - _Linearization_ - Linearization: Script for simulation of the pDNA linearization in Reactor R-301.
+    - _IVT_ - mRNA transcription: Script for simulation of mRNA transcription in Reactor R-401.
+    - _Degradation_reactor_ - DNase I degradation: Script for simulation of DNase I degradation of DNA in Reactor R-402. 
+ 
 
 # Installation and Usage
 **1.** Run the necessary scripts before running the Simulink files.
@@ -57,7 +50,7 @@ The project contains three folders, each described in detail below, including th
 
 # Additional Information
 
-For any questions or issues please contact jespersen.johan@gmail.com
+For any questions or issues please contact jespersen.johan@gmail.com/
 
 
 
