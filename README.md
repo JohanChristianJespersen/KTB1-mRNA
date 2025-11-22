@@ -6,11 +6,11 @@ Welcome to KTB1-mRNA. This repository contains Simulink files and scripts relate
 
 The project contains three folders, each described in detail below, including the scripts and Simulink files required to run the dynamic model simulations.
 
-Open-loop simulation | contains the scripts and Simulink file for the open-loop simulation.
+- Open-loop simulation | contains the scripts and Simulink file for the open-loop simulation.
 
-Closed-loop simulation | contains the scripts and Simulink file for the simulation with closed-loop control.
+- Closed-loop simulation | contains the scripts and Simulink file for the simulation with closed-loop control.
 
-Closed-loop disturbance simulation | contains the simulation model where disturbances are introduced.
+- Closed-loop disturbance simulation | contains the simulation model where disturbances are introduced.
 
 ## Files
 
