@@ -10,8 +10,7 @@ Closed-loop disturbance simulation folder | contains the simulation model where 
 
 ## Files
 
-**1. Simulink**
-   - *CSTR* - Fermentation Reactor: Script for simulating the fermentation reactor.
+1. **Simulink**
   - *Final_OpenLoop_* - 
 -   _Final_Closeloop_ -
 -   _Final_Closeloop_actuator_ -
