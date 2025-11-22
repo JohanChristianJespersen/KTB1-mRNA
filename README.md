@@ -15,11 +15,15 @@ The project contains three folders, each described in detail below, including th
 ## Files
 
 1. **Simulink**
-    - _Final_OpenLoop_ -
-    - _Final_Closeloop_ -
-    - _Final_Closeloop_actuator_ -
-    - _Final_Closeloop_five_ - Introduction of multiple disturbances: Simulink file including 5 different disturbances.
-    - _Final_sinus_ -
+    - _Final_OpenLoop_ - Open-loop simulation: This Simulink file contains the simulation model for the continuous biopharmaceutical process.
+    
+    - _Final_Closeloop_ - Closed-loop simulation: This Simulink file contains the simulation model for the continuous biopharmaceutical process with closed-loop control.
+      
+    - _Final_Closeloop_actuator_ - Actuator & Sensor model: This Simulink file contains the simulation model sensor model and actuator handel to simulate more close to evaluate the control handle.
+      
+    - _Final_Closeloop_five_ - Multiple disturbances: Simulink file introducing Gaussian-distributed variances, step function, ramp signal, a pulse generator that produces a sample-based pulse to the model.
+      
+    - _Final_sinus_ - Sinusoidal disturbance: This Simulink file contains a sinusoidal disturbance to evaluate the control handle.
 
 2. **Scripts**
     - _CSTR_ - Fermentation Reactor: Script for simulating the continuous reactor.
