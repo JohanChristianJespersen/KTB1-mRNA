@@ -53,13 +53,4 @@ The project contains three folders, each described in detail below, including th
 For any questions or issues please contact jespersen.johan@gmail.com
 
 
-
-
-
-
-
-
-
-
-
 Created by Johan Christian Jespersen & Thomas Støvring Sørensen
