@@ -4,7 +4,7 @@ Welcome to KTB1-mRNA. This repository contains Simulink files and scripts relate
 
 # Folders
 
-The project contains three different folders, each of which is described in detail below:
+The project contains three folders, each described in detail below, including the scripts and Simulink files required to run the dynamic model simulations.
 
 Open-loop simulation | contains the scripts and Simulink file for the open-loop simulation.
 
