@@ -50,7 +50,14 @@ The project contains three folders, each described in detail below, including th
 
 # Additional Information
 
-For any questions or issues please contact jespersen.johan@gmail.com/
+For any questions or issues please contact jespersen.johan@gmail.com
+
+
+
+
+
+
+
 
 
 
