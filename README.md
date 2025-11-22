@@ -1,12 +1,16 @@
 # Overview
-This repository contains Simulink files and scripts related to the simulation of a continuous biopharmaceutical process.
+
+Welcome to KTB1-mRNA. This repository contains Simulink files and scripts related to the simulation of a continuous biopharmaceutical process.
 
 # Folders
-Open-loop simulation folder | contains the scripts and Simulink file for the open-loop simulation.
 
-Closed-loop simulation folder | contains the scripts and Simulink file for the simulation with closed-loop control.
+The project contains three different folders, each of which is described in detail below:
 
-Closed-loop disturbance simulation folder | contains the simulation model where disturbances are introduced.
+Open-loop simulation | contains the scripts and Simulink file for the open-loop simulation.
+
+Closed-loop simulation | contains the scripts and Simulink file for the simulation with closed-loop control.
+
+Closed-loop disturbance simulation | contains the simulation model where disturbances are introduced.
 
 ## Files
 
