@@ -1,6 +1,6 @@
 # Overview
 
-Welcome to KTB1-mRNA. This repository contains Simulink files and scripts related to the simulation of a continuous biopharmaceutical process.
+This repository contains Simulink files and scripts related to the simulation of a continuous biopharmaceutical process.
 
 # Folders
 
